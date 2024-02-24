@@ -1,0 +1,7 @@
+/.DS_Store
+/.git/**
+/.gitattributes
+/.gitignore
+/.rcloneignore
+/.fswatchignore
+/monitor-folder-updates.sh
